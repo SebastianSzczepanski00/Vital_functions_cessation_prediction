@@ -1,1 +1,2 @@
-# Vital_functions_cessation_prediction
+## Vital_functions_cessation_prediction
+The main goal was to enable the prediction of a patient's death based on their biometric and lifestyle parameters. I have tried four models: Random Forest Classifier, Logistic Regression, Decision Tree Classifier and SVC. Model hypermarameters were checked via Grid Search CV. Biometric parameters and patient's habits data source is [Heart Failure Prediction](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data) dataset from Kaggle.
